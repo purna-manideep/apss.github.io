@@ -1,0 +1,21 @@
+div.logo_official {
+  float: left;
+  height: 100px;
+  width: 15%;
+  }
+div.sitename {
+  float: left;
+  align: center;
+  height: 100px;
+  width: 65%;
+  }
+div.logo_final {
+  float: left;
+  height: 100px;
+  width: 10%;
+  }
+div.cm_photo {
+  float: right;
+  height: 100px;
+  width: 10%;
+  }
